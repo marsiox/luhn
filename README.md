@@ -1,6 +1,6 @@
 # Luhn
 
-Coding example
+Coding example. Business logic located in /lib
 
 ## Installation
 
@@ -17,4 +17,10 @@ bin/console
 
 > Luhn.checksum(PARTIAL_NUMBER) => integer
 > Luhn.valid?(COMPLETE_NUMBER) => boolean
+```
+
+## Rspec
+
+```
+rspec
 ```
